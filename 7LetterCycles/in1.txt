@@ -1,0 +1,5 @@
+4
+2 AA AB
+2 AA BB
+3 BAA AAA
+3 AAA ABA

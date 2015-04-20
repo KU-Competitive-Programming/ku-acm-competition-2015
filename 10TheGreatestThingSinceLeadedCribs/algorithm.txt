@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/5131497/find-the-index-of-a-given-permutation-in-the-sorted-list-of-the-permutations-of

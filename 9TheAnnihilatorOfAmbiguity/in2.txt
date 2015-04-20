@@ -1,0 +1,9 @@
+8
+6 TTTFFF ||&&^^
+6 TTTFFF &|^^|&
+9 TTTTTTTTT ^^^^^^^^
+16 TFTFTFTFFFFFTTTT &&&^^^|||&^||&^
+4 FFFF &&&
+2 TT ^
+2 FF |
+40 TFFTTFFTTFTFFTTFFTTFTFFTTFFTTFTFFTTFFTTF &^|^&^|^&|^^&^|&^^&^|^&^|^&^|^&^|^&^|^&
